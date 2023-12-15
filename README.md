@@ -9,7 +9,7 @@
 
 ## How to use
 
-  
+As an initial disclaimer, this project is meant to be executed using the Linux command line.   
 
 ### Service 1
 Under /java_template/test, call:
